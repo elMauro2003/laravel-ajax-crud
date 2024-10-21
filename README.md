@@ -4,7 +4,7 @@
 # Ajax CRUD
 
 ## Project Info
-This is a small CRUD developed with Laravel, jQuery, Bootstrap and AJAX. It is 100% reactive, so your http requests will be made without refreshing the page, in order to improve the user experience.
+This is a small CRUD developed with **Laravel**, **jQuery**, **Bootstrap** and **AJAX**. It is 100% reactive, so your **HTTPs** requests will be made without refreshing the page, in order to improve the user experience.
 
 ## Dependencies
 - You must have XAMPP installed [XAMPP](https://www.apachefriends.org/es/download.html "XAMPP") (versión **PHP** **8.1** o superior)  
